@@ -1,0 +1,25 @@
+
+
+.cartwrapper{
+    grid-template-columns: repeat(4,1fr);
+    display: grid;
+    gap: 30px;
+}
+
+.card-img{
+    height: 100px;
+    mix-blend-mode:multiply;
+    color: rgb(52, 226, 43);
+}
+
+.card{
+    background: rgb(227, 206, 206);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: blueviolet;
+    color: beige;
+}

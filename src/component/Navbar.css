@@ -1,0 +1,16 @@
+.navlink{
+  background-color: burlywood;
+  align-items:center ;
+  margin-right: 10px ;
+  font-weight: bold;
+
+}
+.text-itm{
+  display: flex;
+  align-items:center ;
+  margin-right: 35px;
+  justify-content: space-between;
+}
+.text-meta{
+    font-weight: bold;
+}
